@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    width:600px;
+    margin:auto;
+  }
+  .post{
+      background-color: white;
+  }
+  
+  .post-header{
+      display: flex;
+      padding: 10px 10px 0 10px;
+  }
+  .puntos{
+      width: 100%;
+      display: flex;
+      justify-content: end;
+  }
+  img{
+      width:600px;
+  }
+  .emogis{
+      display: flex;
+      justify-content:space-between;
+      padding: 5px;
+  }
+  .encabezado{
+      margin: 0;
+      padding: 2px;
+  }
+  .encabezado p{
+      margin:0;
+  }
+  i{
+      margin: 0 10px 5px 0;
+  }
